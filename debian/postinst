@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Script de pós instalaçãoecho
+
+echo "############## executando postinst"
+
+echo
+exit 0
